@@ -11,6 +11,8 @@ public class Calculator {
         return nume1*num2;
 }
     public static double divide(double num1,double num2){
-        return nume1/num2;
+        double result =num1/num2;
+        return result;
+        
 }
 }
